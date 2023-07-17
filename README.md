@@ -6,7 +6,7 @@ The main requirement of this task is : -
 
 1) User will fill name , email address and feedback in text also have choices to select.
 
-2) Admin login should be there and admin can able to view the feedbacks and can able to delete. 
+2) Admin login is be there and admin can able to view the feedbacks and can able to delete. 
 
 3 ) Admin credentials to be maintained in the database and not hard coded.
 
