@@ -12,4 +12,4 @@ The main requirement of this task is : -
 
 
 
-For storing all feedbacks in the backend i used SQL.
+For storing all feedbacks in the backend i used SQL .
